@@ -147,7 +147,7 @@ Sensitivity analysis highlights risk and return differences
 The model supports a well-informed hedging decision
 
 ## 7. AI Prompts (Examples)  
-- Example 1: [prompt here]  
-- Example 2: [prompt here]  
+Create a 2–3 page quantitative technical specification for a foreign exchange hedging model using the Excel file FIN312_Haluber_Stage2.xlsx as the base model. Follow the structure and formatting requirements outlined in the Stage 3 specification template. Clearly define the problem statement, inputs with named ranges, assumptions, calculation flow, outputs, and sensitivity analysis. Ensure the document is written at a professional level and is detailed enough for another analyst or AI system to fully reconstruct and improve the model. 
+Create a FIN 312 Stage 3 technical specification using the Excel model FIN312_Haluber_Stage2.xlsx. Follow the assignment structure and formatting requirements for the FX hedging project. Use the model inputs, assumptions, and calculations from Stage 2, and produce a clear, professional, and quantitative document that includes problem definition, inputs with units, assumptions, calculation flow, outputs, model review, and sensitivity analysis. Ensure the specification is precise and reproducible so that it can be used directly to generate an improved model in Stage 4.
 
 ---
